@@ -24,4 +24,4 @@ payload:
   - DOMAIN-SUFFIX,donmai.us
   - DOMAIN-SUFFIX,gmgard.com
   - DOMAIN-SUFFIX,manhuaren.com
-  - SRC-IP-CIDR,104.250.148.186/32
+  - IP-CIDR,104.250.148.186/32
