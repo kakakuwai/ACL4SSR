@@ -1,7 +1,4 @@
 payload:
-  # PCR
-  - DOMAIN,api-priconne-redive.cygames.jp
-  
   # 内容：Dmm
   # 数量：14条
   - DOMAIN-SUFFIX,akabeesoft2.com
