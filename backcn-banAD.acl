@@ -34,7 +34,6 @@
 (^|\.)\w*adsage\w*\.\w*$
 (^|\.)\w*adsensor\w*\.\w*$
 (^|\.)\w*adservice\w*\.\w*$
-(^|\.)\w*adsh\w*\.\w*$
 (^|\.)\w*adsmogo\w*\.\w*$
 (^|\.)\w*adsrvmedia\w*\.\w*$
 (^|\.)\w*adsserving\w*\.\w*$
@@ -48,7 +47,6 @@
 (^|\.)\w*dwtrack\w*\.\w*$
 (^|\.)\w*guanggao\w*\.\w*$
 (^|\.)\w*lianmeng\w*\.\w*$
-(^|\.)\w*monitor\w*\.\w*$
 (^|\.)\w*omgmta\w*\.\w*$
 (^|\.)\w*omniture\w*\.\w*$
 (^|\.)\w*openx\w*\.\w*$
@@ -711,7 +709,7 @@
 (^|\.)(1|2)\.win7china\.com$
 (^|\.)(801|803|806|808|bdj|dol|click)\.(tianya|tianyaui)\.cn$
 (^|\.)(92x|its-dori)\.tumblr\.com$
-(^|\.)(adm|eq|fund|ozone|stat|vaserviece)\.10jqka\.com\.cn$
+(^|\.)(adm|eq|ozone|stat|vaserviece)\.10jqka\.com\.cn$
 (^|\.)(ad|adadmin|ads)\.house365\.com$
 (^|\.)(ad|ads|counter)\.csdn\.net$
 (^|\.)(ad|analytics|click|ganjituiguang|sta|tralog)\.ganji\.com$
@@ -1036,7 +1034,6 @@
 (^|\.)optaim\.com$
 (^|\.)optimix\.asia$
 (^|\.)optimix\.cn$
-(^|\.)optimizely\.com$
 (^|\.)optimizelyapis\.com$
 (^|\.)overture\.com$
 (^|\.)p0y\.cn$
@@ -1514,6 +1511,7 @@
 # MyList
 (^|\.)423down\.com$
 (^|\.)chaipip\.com$
+(^|\.)chinaplay\.store$
 (^|\.)hrtsea\.com$
 (^|\.)laomo\.me$
 (^|\.)mpyit\.com$
@@ -1837,12 +1835,15 @@
 (^|\.)st\.dl\.eccdnx\.com$
 (^|\.)st\.dl\.pinyuncloud\.com$
 (^|\.)steamcdn-a\.akamaihd\.net$
+(^|\.)steamcommunity-a\.akamaihd\.net$
 (^|\.)steamcontent\.com$
 (^|\.)steamgames\.com$
 (^|\.)steampowered\.com\.8686c\.com$
 (^|\.)steamstat\.us$
 (^|\.)steamstatic\.com$
+(^|\.)steamstore-a\.akamaihd\.net$
 (^|\.)steamusercontent\.com$
+(^|\.)steamuserimages-a\.akamaihd\.net$
 
 # Tencent
 (^|\.)foxmail\.com $
