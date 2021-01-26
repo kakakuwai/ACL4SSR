@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,saucenao.com
   - DOMAIN-SUFFIX,donmai.us
