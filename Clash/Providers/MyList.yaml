@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,cn-hk*.bilivideo.com
+  - DOMAIN-KEYWORD,cn-hk-eq
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,saucenao.com
